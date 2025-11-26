@@ -7,7 +7,7 @@ Meu devLinks, feito através das aulas da Rocketseat no novo Discover<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/Cover.png" width="100%">
+  <img alt="projeto DevLinks" src="./.github/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
